@@ -7,3 +7,4 @@ ZCZC W00 15 L06 Reading References/Books/Documents : Reading slides OS00
 ZCZC W00 5 L23 Discord: discussion, etc. : Discussion for QUIZ W00 Q003
 ZCZC W00 5 L05 GSGS related : Searching about QUIZ W00 Q003
 ZCZC W00 15 L23 Discord: discussion, etc. : Discussion for QUIZ W00 Q004
+ZCZC W00 5 L01 SCELE related : QUIZ W00 W005
