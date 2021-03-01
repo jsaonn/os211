@@ -9,3 +9,4 @@ ZCZC W00 5 L05 GSGS related : Searching about QUIZ W00 Q003
 ZCZC W00 15 L23 Discord: discussion, etc. : Discussion for QUIZ W00 Q004
 ZCZC W00 5 L01 SCELE related : QUIZ W00 W005
 ZCZC W00 140 L03 GitHub related : Learn Github Basic and revert
+ZCZC W01 115 L02 ZOOM related : 1/3 10.00 - 11.55
