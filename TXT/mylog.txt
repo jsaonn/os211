@@ -13,3 +13,4 @@ ZCZC W01 115 L02 ZOOM related : 1/3 10.00 - 11.55
 ZCZC W01 40 L05 GSGS related : Searching for Pop Quiz (3/2)
 ZCZC W01 175 L11 Assignment #1
 ZCZC W01 20 L05 GSGS related : Searching about QUIZ W01 Q1
+ZCZC W01 120 L08 Trying something : Learn VimTutor
