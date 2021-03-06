@@ -15,4 +15,4 @@ ZCZC W01 175 L11 Assignment #1
 ZCZC W01 20 L05 GSGS related : Searching about QUIZ W01 Q1
 ZCZC W01 120 L08 Trying something : Learn VimTutor
 ZCZC W01 60 L12 Assignment #2
-ZCZC W01 75 L13 Assignment #3
+ZCZC W01 80 L13 Assignment #3
