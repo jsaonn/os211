@@ -14,5 +14,10 @@ ZCZC W01 40 L05 GSGS related : Searching for Pop Quiz (3/2)
 ZCZC W01 175 L11 Assignment #1
 ZCZC W01 20 L05 GSGS related : Searching about QUIZ W01 Q1
 ZCZC W01 120 L08 Trying something : Learn VimTutor
-ZCZC W01 60 L12 Assignment #2
-ZCZC W01 80 L13 Assignment #3
+ZCZC W01 60 L12 Assignment #2 : learning some basic command in linux and regex
+ZCZC W01 20 L13 Assignment #3 : learning some vi command
+ZCZC W01 30 L14 Assignment #4 : creating my own username, learn how to use --force-badname
+ZCZC W01 20 L15 Assignment #5 : cloning
+ZCZC W01 10 L16 Assignment #6 : updating mylog.txt
+ZCZC W01 40 L17 Assignment #7 (halfway done)
+ZCZC W01 10 L18 Assignment #8 (sight seeing)
