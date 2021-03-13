@@ -30,5 +30,9 @@ ZCZC W02 10 L15 Assignment #5 : export public key
 ZCZC W02 15 L18 Assignment #8 : copy and modify myscript.sh
 ZCZC W02 10 L19 Assignment #9 : updating mylog
 ZCZC W02 10 L20 Assignment #10 : make SHA256SUM and sign
-ZCZC W02 10 L19 Assignment #9 : updating mylog
 ZCZC W02 180 L03 : Modify Github Page
+ZCZC W02 100 L03 : Modify Github Page #2
+ZCZC W02 70 L17 Assignment #7 : updating top 10 link
+ZCZC W02 15 L16 Assignment #6 : updating my rank
+ZCZC W02 10 L11 Assignment #1 : reading slide
+ZCZC W02 30 L12 Assignment #2 : trying programs
