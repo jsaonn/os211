@@ -1,0 +1,11 @@
+title:          "OS211"
+author:     "jsaonn"
+urlweb:     "https://jsaonn.github.io/os211"
+urlgithub:      "https://github.com/jsaonn/os211"
+urlghpage:      "https://jsaonn.github.io/os211"
+mygithub:       "https://github.com/jsaonn"
+keywords:       "jekyll, testing"
+sitemap:        "true"
+plugins:
+            - jekyll-sitemap
+            - jekyll-seo-tag
