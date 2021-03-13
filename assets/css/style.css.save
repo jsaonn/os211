@@ -1,16 +1,14 @@
 html {
-    background-color: #363537;
-    color: #82DEC4;
-    font-family:  verdana,arial,helvetica,san-serif;
+    background-color: #717171;
+    color: #f0f8ff;
 }
 
 body {
     margin: 0;
 }
 
-.jsaon-content {
-    margin-left: 50px;
-    margin-right: 50px;
+jsaon-content {
+    margin: 50px;
 }
 
 ul {
@@ -18,16 +16,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #363537;
-}
-
-h1#title {
-    text-align: center;
-}
-
-a#nama {
-    margin-right: 800px;
-    margin-left: 50px;
+    background-color: #333;
 }
 
 li {
@@ -41,10 +30,6 @@ li a, .dropbtn {
     padding: 14px 16px;
     text-decoration: none;
   }
-
-.active:hover {
-    background-color: #004346 !important;
-}
 
 li a:hover, .dropdown:hover .dropbtn {
     background-color: black;
@@ -76,21 +61,14 @@ li.dropdown {
   }
 
 .dropdown-content a:hover {
-    background-color: #46CDA7 !important;
+    background-color: #f1f1f1;
 }
 
-.dropdown:hover .dropdown-content {
-    display: block;
-}
 
 .active {
-    background-color: #09BC8A;
+    background-color: #4caf50;
 }
 
 #nama {
     font-size: 1em;
-}
-
-p a:hover {
-    background-color: #363537 !important;
 }
