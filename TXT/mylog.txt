@@ -24,3 +24,6 @@ ZCZC W01 10 L18 Assignment #8 : sight seeing
 ZCZC W01 50 L17 Assignment #7 : Finishing
 ZCZC W02 80 L02 ZOOM related : 8/3 10.00 - 11.20
 ZCZC W02 20 L01 Scele related : Doing Pop Quiz (9/3)
+ZCZC W02 15 L13 Assignment #3 : generate public key
+ZCZC W02 15 L14 Assignment #4 : import public key
+ZCZC W02 10 L15 Assignment #5 : export public key
