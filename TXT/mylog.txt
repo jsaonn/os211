@@ -30,3 +30,4 @@ ZCZC W02 10 L15 Assignment #5 : export public key
 ZCZC W02 15 L18 Assignment #8 : copy and modify myscript.sh
 ZCZC W02 10 L19 Assignment #9 : updating mylog
 ZCZC W02 10 L20 Assignment #10 : make SHA256SUM and sign
+ZCZC W02 10 L19 Assignment #9 : updating mylog
