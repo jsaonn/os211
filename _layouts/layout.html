@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <head>
-	<title>{{ page.title }} | {{ site.title }}</title>
-	<link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet" type="text/css" title="style">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet" type="text/css" title="style">
 </head>
 <body>
-	<div class="content">
-		{{ content }}
-	</div>
+    {% include navbar.html %}
+    <div class="jsaon-content">
+        {{ content }}
+    </div>
 </body>
-
