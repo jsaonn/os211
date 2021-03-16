@@ -10,7 +10,7 @@ title: "konaqua"
 ### Johanes Jason --- Bekasi {#author}  
 
 
-Welcome to my Github Page!  
+Ad Astra Abyssosque!  
 
 I will use this page to post my assignments, logs, top rank weekly, and top 10 list weekly.
 
