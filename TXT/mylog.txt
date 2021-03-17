@@ -46,3 +46,4 @@ ZCZC W03 10 L16 Assignment #6 : update mylog.txt
 ZCZC W03 90 L17 Assignment #7 : wget and doing things
 ZCZC W03 10 L18 Assignment #8 : update myscript (change REC2)
 ZCZC W03 10 L19 Assignment #9 : bash myscript
+ZCZC W03 70 L15 Assignment #5 : working on top 10 list
