@@ -37,3 +37,12 @@ ZCZC W02 15 L16 Assignment #6 : updating my rank
 ZCZC W02 10 L11 Assignment #1 : reading slide
 ZCZC W02 30 L12 Assignment #2 : trying programs
 ZCZC W02 20 L05 GSG related : Searching for Pop Quiz (16/3)
+ZCZC W03 100 L02 ZOOM related : 17/3 10.00 - 11.40
+ZCZC W03 10 L11 Assignment #1 : reading slide
+ZCZC W03 15 L12 Assignment #2 : try demos
+ZCZC W03 10 L13 Assignment #3 : check .bash_aliases
+ZCZC W03 20 L14 Assignment #4 : picking 3 best top 10 list of my friends
+ZCZC W03 10 L16 Assignment #6 : update mylog.txt
+ZCZC W03 90 L17 Assignment #7 : wget and doing things
+ZCZC W03 10 L18 Assignment #8 : update myscript (change REC2)
+ZCZC W03 10 L19 Assignment #9 : bash myscript
