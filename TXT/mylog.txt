@@ -47,3 +47,11 @@ ZCZC W03 90 L17 Assignment #7 : wget and doing things
 ZCZC W03 10 L18 Assignment #8 : update myscript (change REC2)
 ZCZC W03 10 L19 Assignment #9 : bash myscript
 ZCZC W03 70 L15 Assignment #5 : working on top 10 list
+ZCZC W04 105 L02 ZOOM related : 24/3 10.00 - 11.45
+ZCZC W04 10 L11 Assignment #1 : reading slides
+ZCZC W04 20 L12 Assignment #2 : try demos
+ZCZC W04 20 L13 Assignment #3 : picking 3 best top 10 list
+ZCZC W04 15 L15 Assignment #5 : update mylog
+ZCZC W04 80 L16 Assignment #6 : download week 04 stuff etc
+ZCZC W04 10 L17 Assignment #7 : checking and update myscript
+ZCZC W04 10 L18 Assignment #8 : bash myscript
