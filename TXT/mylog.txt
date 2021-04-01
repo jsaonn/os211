@@ -56,3 +56,12 @@ ZCZC W04 15 L15 Assignment #5 : update mylog
 ZCZC W04 80 L16 Assignment #6 : download week 04 stuff etc
 ZCZC W04 10 L17 Assignment #7 : checking and update myscript
 ZCZC W04 10 L18 Assignment #8 : bash myscript
+ZCZC W05 75 L02 ZOOM related : 31/3 10.00 - 11.15
+ZCZC W05 75 L01 SCELE related : doing Pop Quiz W05
+ZCZC W05 20 L11 Assignment #1 : reading slides
+ZCZC W05 20 L12 Assignment #2 : picking 3 best top 10 list
+ZCZC W05 85 L13 Assignment #3 : searching for top 10 link list
+ZCZC W05 100 L14 Assignment #4 : download week 05 stuff, also placed pict with ram in folder
+ZCZC W05 15 L15 Assignment #5 : update mylog.txt
+ZCZC W05 10 L16 Assignment #6 : bash myscript
+
