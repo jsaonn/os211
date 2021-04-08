@@ -64,4 +64,10 @@ ZCZC W05 85 L13 Assignment #3 : searching for top 10 link list
 ZCZC W05 100 L14 Assignment #4 : download week 05 stuff, also placed pict with ram in folder
 ZCZC W05 15 L15 Assignment #5 : update mylog.txt
 ZCZC W05 10 L16 Assignment #6 : bash myscript
+ZCZC W06 110 L02 ZOOM related : 7/04 10.00 - 11.50
+ZCZC W06 20 L11 Assignment #1 : reading slides
+ZCZC W06 15 L12 Assignment #2 : picking 3 best top 10 list week 06
+ZCZC W06 20 L14 Assignment #4 : download week 06 stuff
+ZCZC W06 10 L15 Assignment #5 : update mylog.txt
+ZCZC W06 10 L16 Assignment #6 : bash myscript
 
