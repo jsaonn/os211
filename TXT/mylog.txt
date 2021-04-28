@@ -71,8 +71,10 @@ ZCZC W06 20 L14 Assignment #4 : download week 06 stuff
 ZCZC W06 10 L15 Assignment #5 : update mylog.txt
 ZCZC W06 10 L16 Assignment #6 : bash myscript
 ZCZC W07 110 L02 ZOOM related : 26/4 10.00 - 11.50
+ZCZC W07 25 L11 Assignment #1 : reading slides
 ZCZC W07 25 L12 Assignment #2 : picking 3 best top 10 list
+ZCZC W07 110 L13 Assignment #3 : searching for top 10 link list
 ZCZC W07 70 L14 Assignment #4 : download week 06 stuff, doing "How to get WEEK07-REPORT2.txt"
-ZCZC w07 15 L15 Assignment #5 : update mylog.txt
+ZCZC w07 10 L15 Assignment #5 : update mylog.txt
 ZCZC W07 10 L16 Assignment #6 : bash myscript
 
