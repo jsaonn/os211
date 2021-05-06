@@ -77,7 +77,9 @@ ZCZC W07 110 L13 Assignment #3 : searching for top 10 link list
 ZCZC W07 70 L14 Assignment #4 : download week 06 stuff, doing "How to get WEEK07-REPORT2.txt"
 ZCZC W07 10 L15 Assignment #5 : update mylog.txt
 ZCZC W07 10 L16 Assignment #6 : bash myscript
-ZCZC W08 105 L02 ZOOM related : 3/5 10.00 - 11.45
+ZCZC W08 105 L02 ZOOM related : 3/5 10.00 - 11.45i
+ZCZC W08 30 L11 Assignment #1 : reading slides
+ZCZC W08 90 L12 Assignment #2 : picking 3 best and top 10 link list
 ZCZC W08 225 L13 Assignment #3 : building linux from scratch chapter 1-4 + reports
 ZCZC W08 10 L14 Assignment #4 : tarballed
 ZCZC W08 15 L15 Assignment #5 : Update my log
